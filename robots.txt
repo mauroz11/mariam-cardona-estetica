@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap de Marian Cardona Estética Integral
+Sitemap: https://mariancardonaestetica.com/sitemap.xml
